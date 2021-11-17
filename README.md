@@ -1,2 +1,1 @@
-# .github
-FNR health files
+Wait, why are you here? These are just meta files...
